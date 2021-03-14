@@ -1,9 +1,9 @@
 ---
-title:  "道码旦・由来"
-subtitle: "关注我们公众号/微博：codingirlsclub"
+title:  "强棒少年-立立阿呷莫"
+subtitle: "少年强则中国强"
 author: "Bear"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/001.jpg"
+image: "assets/images/0001.jpg"
 ---
 
 ### **强棒少年-立立阿呷莫**
