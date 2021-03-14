@@ -16,7 +16,7 @@ image: "assets/images/0001.jpg"
 
 2019年12月加入强棒基地，是女队的颜值担当。兴趣爱好广泛：喜欢数学/天文/象棋/画画，而且画的很棒。最大的兴趣就是现在正在学习接触的棒球。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfkw1e2oj21940u07wr.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvqs1b1sj20m80gonax.jpg)
 
 **因为爱好所以坚持**
 
@@ -30,26 +30,27 @@ image: "assets/images/0001.jpg"
 
 **关于强棒基地**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfj75yexj20m90d642g.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvrjjdymj20m80go45q.jpg)
 由前国家棒球队队长孙岭峰与爱心人士联合筹资建设，创建中国第一支公益棒球队。基地主要资助对象为全国范围内7-10岁困境儿童，通过专业的棒球技能获得职业发展方向和未来的就业机会。
 
-> 截止到2020年11月，项目共资助困境儿童80名，其中女孩26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
+截止到2020年11月，项目共资助困境儿童80名，其中女孩26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
 
-> 2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
+2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
 
-> ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojslyetrgj20k00dc7wh.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvrqc0sej20m80go131.jpg)
+
 基地除配有室外标准训练场及比赛场外，还配有厨房、餐厅、 宿舍、浴室、学习室、图书室、活动室等多种功能设施。除保障 正常的文化学习、训练及营养外，还有专人负责运动康复及日常 医疗保障。
 
 ***
 
 **关于立立阿呷莫的家乡-四川大凉山**
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojspambmdj21900u0u0x.jpg)
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojsp99pxjj21d10u01kz.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvs5m30gj20m80goqfq.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvry2ne3j20m80goqog.jpg)
 
 凉山四季如春，享有“万紫千红花不谢，冬暖夏凉四时春”之誉。自古就是通往云南和东南亚的重要通道、“南方丝绸之路”的重镇；地处“大香格里拉旅游环线”腹心地带，4A级景区有：邛海—泸山、邛海国家湿地公园、螺髻山、泸沽湖、西昌卫星发射中心等景点。
 
-![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfscf13ej20k00dc4qp.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojvsexfrnj20m80go0zf.jpg)
 > 凉山彝族的服饰，多姿多彩，风格独具。带有浓厚的地域特色。
 
 #### **写给立立阿呷莫的小唠叨**

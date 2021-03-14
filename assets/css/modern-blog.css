@@ -152,8 +152,8 @@
 }
 
 .card__copy img {
-    height: 1250px;
-    width: 750px;
+    height: 800px;
+    width: 600px;
 }
 
 @media only screen and (max-width: 980px) {
