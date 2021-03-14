@@ -48,6 +48,7 @@ image: "assets/images/0001.jpg"
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojsp99pxjj21d10u01kz.jpg)
 
 凉山四季如春，享有“万紫千红花不谢，冬暖夏凉四时春”之誉。自古就是通往云南和东南亚的重要通道、“南方丝绸之路”的重镇；地处“大香格里拉旅游环线”腹心地带，4A级景区有：邛海—泸山、邛海国家湿地公园、螺髻山、泸沽湖、西昌卫星发射中心等景点。
+
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfscf13ej20k00dc4qp.jpg)
 > 凉山彝族的服饰，多姿多彩，风格独具。带有浓厚的地域特色。
 
