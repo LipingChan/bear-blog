@@ -75,11 +75,11 @@
 	height: 55px;
 	padding: 10px 10px 25px;
 	border-radius: 20px;
-	opacity: 0.8;
-	background: beige;
+	opacity: 0.9;
+	background: white;
 	-webkit-transform: translate(-26%, -385%);
 	-ms-transform: translate(-26%, -385%);
-	transform: translate(-26%, -385%);
+	transform: translate(-40%, -450%);
 }
 
 .card__title {
@@ -90,7 +90,7 @@
 }
 
 .card__container--closed .card__title {
-	color: rgb(58, 56, 56);
+	color: black;
 }
 
 .card__subtitle {
@@ -101,7 +101,7 @@
 }
 
 .card__container--closed .card__subtitle {
-	color: #f5f5f5;
+	color: black;
 }
 
 .card__copy {
