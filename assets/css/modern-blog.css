@@ -70,12 +70,16 @@
 }
 
 .card__container--closed .card__caption {
-	font-size: 1em;
-	max-width: auto;
+	font-size: 10px;
+	width: 166px;
+	height: 55px;
 	padding: 10px 10px 25px;
-	-webkit-transform: translateY(-100%);
-	-ms-transform: translateY(-100%);
-	transform: translateY(-100%);
+	border-radius: 20px;
+	opacity: 0.8;
+	background: beige;
+	-webkit-transform: translate(-26%, -385%);
+	-ms-transform: translate(-26%, -385%);
+	transform: translate(-26%, -385%);
 }
 
 .card__title {
