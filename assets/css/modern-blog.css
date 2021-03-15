@@ -118,8 +118,7 @@
 }
 
 .card__copy p:first-of-type img {
-	width: 840px;
-	height: 1700px;
+	width: 100%;
 }
 
 .card__btn-close {
@@ -161,8 +160,7 @@
 }
 
 .card__copy img {
-    height: 560px;
-    width: 840px;
+    width: 100%;
 }
 
 @media only screen and (max-width: 980px) {
