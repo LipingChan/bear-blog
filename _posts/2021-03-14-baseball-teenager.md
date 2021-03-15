@@ -6,9 +6,7 @@ avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/0001.jpg"
 ---
 
-### **强棒少年-立立阿呷莫**
-
-##### 少年强则中国强
+### **少年强则中国强**
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfxxquyij20ku1681bs.jpg)
 
