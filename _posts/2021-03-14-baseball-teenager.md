@@ -38,7 +38,7 @@ image: "assets/images/0001.jpg"
 
 2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
 
->![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojslyetrgj20k00dc7wh.jpg)
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojslyetrgj20k00dc7wh.jpg)
 
 基地除配有室外标准训练场及比赛场外，还配有厨房、餐厅、 宿舍、浴室、学习室、图书室、活动室等多种功能设施。除保障 正常的文化学习、训练及营养外，还有专人负责运动康复及日常 医疗保障。
 
@@ -54,6 +54,8 @@ image: "assets/images/0001.jpg"
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojfscf13ej20k00dc4qp.jpg)
 
 凉山彝族的服饰，多姿多彩，风格独具。带有浓厚的地域特色。
+
+***
 
 #### **写给立立阿呷莫的小唠叨**
 
