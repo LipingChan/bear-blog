@@ -2,9 +2,9 @@
 baseurl: "/bear-blog"
 
 # 网站的主标题
-title: "强棒少年-立立阿呷莫"
+title: "小熊的博客"
 # 网站副标题
-subTitle: "少年强则中国强"
+subTitle: "记录生活与感动"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/

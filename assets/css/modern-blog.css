@@ -113,6 +113,11 @@
 	padding: 0 0 1em 0;
 }
 
+.card__copy p:first-of-type img {
+	width: 500px;
+	height: 1250px;
+}
+
 .card__btn-close {
 	font-size: 18px;
 	position: absolute;
@@ -152,8 +157,8 @@
 }
 
 .card__copy img {
-    height: 800px;
-    width: 600px;
+    height: 500px;
+    width: 750px;
 }
 
 @media only screen and (max-width: 980px) {
